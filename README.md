@@ -56,54 +56,56 @@
 23. [Jax in Action](https://www.manning.com/books/jax-in-action) - by Grigory Sapunov
 24. [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow](https://www.knowledgeisle.com/wp-content/uploads/2019/12/2-Aur%C3%A9lien-G%C3%A9ron-Hands-On-Machine-Learning-with-Scikit-Learn-Keras-and-Tensorflow_-Concepts-Tools-and-Techniques-to-Build-Intelligent-Systems-O%E2%80%99Reilly-Media-2019.pdf) by Aurélien Géron  | Oct 15, 2019
 
+
 ### Courses
 
 1.  [Machine Learning - Stanford](https://class.coursera.org/ml-005) by Andrew Ng in Coursera (2010-2014)
 2.  [Machine Learning - Caltech](http://work.caltech.edu/lectures.html) by Yaser Abu-Mostafa (2012-2014)
 3.  [Machine Learning - Carnegie Mellon](http://www.cs.cmu.edu/~tom/10701_sp11/lectures.shtml) by Tom Mitchell (Spring 2011)
-2.  [Neural Networks for Machine Learning](https://class.coursera.org/neuralnets-2012-001) by Geoffrey Hinton in Coursera (2012)
-3.  [Neural networks class](https://www.youtube.com/playlist?list=PL6Xpj9I5qXYEcOhn7TqghAJ6NAPrNmUBH) by Hugo Larochelle from Université de Sherbrooke (2013)
-4.  [Deep Learning Course](http://cilvr.cs.nyu.edu/doku.php?id=deeplearning:slides:start) by CILVR lab @ NYU (2014)
-5.  [A.I - Berkeley](https://courses.edx.org/courses/BerkeleyX/CS188x_1/1T2013/courseware/) by Dan Klein and Pieter Abbeel (2013)
-6.  [A.I - MIT](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/lecture-videos/) by Patrick Henry Winston (2010)
-7.  [Vision and learning - computers and brains](http://web.mit.edu/course/other/i2course/www/vision_and_learning_fall_2013.html) by Shimon Ullman, Tomaso Poggio, Ethan Meyers @ MIT (2013)
-9.  [Convolutional Neural Networks for Visual Recognition - Stanford](http://vision.stanford.edu/teaching/cs231n/syllabus.html) by Fei-Fei Li, Andrej Karpathy (2017)
-10.  [Deep Learning for Natural Language Processing - Stanford](http://cs224d.stanford.edu/)
-11.  [Neural Networks - usherbrooke](http://info.usherbrooke.ca/hlarochelle/neural_networks/content.html)
-12.  [Machine Learning - Oxford](https://www.cs.ox.ac.uk/people/nando.defreitas/machinelearning/) (2014-2015)
-13.  [Deep Learning - Nvidia](https://developer.nvidia.com/deep-learning-courses) (2015)
-14.  [Graduate Summer School: Deep Learning, Feature Learning](https://www.youtube.com/playlist?list=PLHyI3Fbmv0SdzMHAy0aN59oYnLy5vyyTA) by Geoffrey Hinton, Yoshua Bengio, Yann LeCun, Andrew Ng, Nando de Freitas and several others @ IPAM, UCLA (2012)
-15.  [Deep Learning - Udacity/Google](https://www.udacity.com/course/deep-learning--ud730) by Vincent Vanhoucke and Arpan Chakraborty (2016)
-16.  [Deep Learning - UWaterloo](https://www.youtube.com/playlist?list=PLehuLRPyt1Hyi78UOkMPWCGRxGcA9NVOE) by Prof. Ali Ghodsi at University of Waterloo (2015)
-17.  [Statistical Machine Learning - CMU](https://www.youtube.com/watch?v=azaLcvuql_g&list=PLjbUi5mgii6BWEUZf7He6nowWvGne_Y8r) by Prof. Larry Wasserman
-18.  [Deep Learning Course](https://www.college-de-france.fr/site/en-yann-lecun/course-2015-2016.htm) by Yann LeCun (2016)
-19. [Designing, Visualizing and Understanding Deep Neural Networks-UC Berkeley](https://www.youtube.com/playlist?list=PLkFD6_40KJIxopmdJF_CLNqG3QuDFHQUm)
-20. [UVA Deep Learning Course](http://uvadlc.github.io) MSc in Artificial Intelligence for the University of Amsterdam.
-21. [MIT 6.S094: Deep Learning for Self-Driving Cars](http://selfdrivingcars.mit.edu/)
-22. [MIT 6.S191: Introduction to Deep Learning](http://introtodeeplearning.com/)
-23. [Berkeley CS 294: Deep Reinforcement Learning](http://rll.berkeley.edu/deeprlcourse/)
-24. [Keras in Motion video course](https://www.manning.com/livevideo/keras-in-motion)
-25. [Practical Deep Learning For Coders](http://course.fast.ai/) by Jeremy Howard - Fast.ai
-26. [Introduction to Deep Learning](http://deeplearning.cs.cmu.edu/) by Prof. Bhiksha Raj (2017)
-27. [AI for Everyone](https://www.deeplearning.ai/ai-for-everyone/) by Andrew Ng (2019)
-28. [MIT Intro to Deep Learning 7 day bootcamp](https://introtodeeplearning.com) - A seven day bootcamp designed in MIT to introduce deep learning methods and applications (2019)
-29. [Deep Blueberry: Deep Learning](https://mithi.github.io/deep-blueberry) - A free five-weekend plan to self-learners to learn the basics of deep-learning architectures like CNNs, LSTMs, RNNs, VAEs, GANs, DQN, A3C and more (2019)
-30. [Spinning Up in Deep Reinforcement Learning](https://spinningup.openai.com/) - A free deep reinforcement learning course by OpenAI (2019)
-31. [Deep Learning Specialization - Coursera](https://www.coursera.org/specializations/deep-learning) - Breaking into AI with the best course from Andrew NG.
-32. [Deep Learning - UC Berkeley | STAT-157](https://www.youtube.com/playlist?list=PLZSO_6-bSqHQHBCoGaObUljoXAyyqhpFW) by Alex Smola and Mu Li (2019)
-33. [Machine Learning for Mere Mortals video course](https://www.manning.com/livevideo/machine-learning-for-mere-mortals) by Nick Chase
-34. [Machine Learning Crash Course with TensorFlow APIs](https://developers.google.com/machine-learning/crash-course/) -Google AI
-35. [Deep Learning from the Foundations](https://course.fast.ai/part2) Jeremy Howard - Fast.ai
-36. [Deep Reinforcement Learning (nanodegree) - Udacity](https://www.udacity.com/course/deep-reinforcement-learning-nanodegree--nd893) a 3-6 month Udacity nanodegree, spanning multiple courses (2018)
-37. [Grokking Deep Learning in Motion](https://www.manning.com/livevideo/grokking-deep-learning-in-motion) by Beau Carnes (2018)
-38. [Face Detection with Computer Vision and Deep Learning](https://www.udemy.com/share/1000gAA0QdcV9aQng=/) by Hakan Cebeci
-39. [Deep Learning Online Course list at Classpert](https://classpert.com/deep-learning) List of Deep Learning online courses (some are free) from Classpert Online Course Search
-40. [AWS Machine Learning](https://aws.training/machinelearning) Machine Learning and Deep Learning Courses from Amazon's Machine Learning university
-41. [Intro to Deep Learning with PyTorch](https://www.udacity.com/course/deep-learning-pytorch--ud188) - A great introductory course on Deep Learning by Udacity and Facebook AI
-42. [Deep Learning by Kaggle](https://www.kaggle.com/learn/deep-learning) - Kaggle's  free course on Deep Learning
-43. [Yann LeCun’s Deep Learning Course at CDS](https://cds.nyu.edu/deep-learning/) - DS-GA 1008 · SPRING 2021 
-44. [Neural Networks and Deep Learning](https://webcms3.cse.unsw.edu.au/COMP9444/19T3/) - COMP9444 19T3
-45. [Deep Learning A.I.Shelf](http://aishelf.org/category/ia/deep-learning/)
+4.  [Probabilistic Graphical Models](https://www.cs.cmu.edu/~epxing/Class/10708-14/lecture.html) by Eric Xing (2014)
+5.  [Neural Networks for Machine Learning](https://class.coursera.org/neuralnets-2012-001) by Geoffrey Hinton in Coursera (2012)
+6.  [Neural networks class](https://www.youtube.com/playlist?list=PL6Xpj9I5qXYEcOhn7TqghAJ6NAPrNmUBH) by Hugo Larochelle from Université de Sherbrooke (2013)
+7.  [Deep Learning Course](http://cilvr.cs.nyu.edu/doku.php?id=deeplearning:slides:start) by CILVR lab @ NYU (2014)
+8.  [A.I - Berkeley](https://courses.edx.org/courses/BerkeleyX/CS188x_1/1T2013/courseware/) by Dan Klein and Pieter Abbeel (2013)
+9.  [A.I - MIT](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/lecture-videos/) by Patrick Henry Winston (2010)
+10.  [Vision and learning - computers and brains](http://web.mit.edu/course/other/i2course/www/vision_and_learning_fall_2013.html) by Shimon Ullman, Tomaso Poggio, Ethan Meyers @ MIT (2013)
+11.  [Convolutional Neural Networks for Visual Recognition - Stanford](http://vision.stanford.edu/teaching/cs231n/syllabus.html) by Fei-Fei Li, Andrej Karpathy (2017)
+12.  [Deep Learning for Natural Language Processing - Stanford](http://cs224d.stanford.edu/)
+13.  [Neural Networks - usherbrooke](http://info.usherbrooke.ca/hlarochelle/neural_networks/content.html)
+14.  [Machine Learning - Oxford](https://www.cs.ox.ac.uk/people/nando.defreitas/machinelearning/) (2014-2015)
+15.  [Deep Learning - Nvidia](https://developer.nvidia.com/deep-learning-courses) (2015)
+16.  [Graduate Summer School: Deep Learning, Feature Learning](https://www.youtube.com/playlist?list=PLHyI3Fbmv0SdzMHAy0aN59oYnLy5vyyTA) by Geoffrey Hinton, Yoshua Bengio, Yann LeCun, Andrew Ng, Nando de Freitas and several others @ IPAM, UCLA (2012)
+17.  [Deep Learning - Udacity/Google](https://www.udacity.com/course/deep-learning--ud730) by Vincent Vanhoucke and Arpan Chakraborty (2016)
+18.  [Deep Learning - UWaterloo](https://www.youtube.com/playlist?list=PLehuLRPyt1Hyi78UOkMPWCGRxGcA9NVOE) by Prof. Ali Ghodsi at University of Waterloo (2015)
+19.  [Statistical Machine Learning - CMU](https://www.youtube.com/watch?v=azaLcvuql_g&list=PLjbUi5mgii6BWEUZf7He6nowWvGne_Y8r) by Prof. Larry Wasserman
+20.  [Deep Learning Course](https://www.college-de-france.fr/site/en-yann-lecun/course-2015-2016.htm) by Yann LeCun (2016)
+21. [Designing, Visualizing and Understanding Deep Neural Networks-UC Berkeley](https://www.youtube.com/playlist?list=PLkFD6_40KJIxopmdJF_CLNqG3QuDFHQUm)
+22. [UVA Deep Learning Course](http://uvadlc.github.io) MSc in Artificial Intelligence for the University of Amsterdam.
+23. [MIT 6.S094: Deep Learning for Self-Driving Cars](http://selfdrivingcars.mit.edu/)
+24. [MIT 6.S191: Introduction to Deep Learning](http://introtodeeplearning.com/)
+25. [Berkeley CS 294: Deep Reinforcement Learning](http://rll.berkeley.edu/deeprlcourse/)
+26. [Keras in Motion video course](https://www.manning.com/livevideo/keras-in-motion)
+27. [Practical Deep Learning For Coders](http://course.fast.ai/) by Jeremy Howard - Fast.ai
+28. [Introduction to Deep Learning](http://deeplearning.cs.cmu.edu/) by Prof. Bhiksha Raj (2017)
+29. [AI for Everyone](https://www.deeplearning.ai/ai-for-everyone/) by Andrew Ng (2019)
+30. [MIT Intro to Deep Learning 7 day bootcamp](https://introtodeeplearning.com) - A seven day bootcamp designed in MIT to introduce deep learning methods and applications (2019)
+31. [Deep Blueberry: Deep Learning](https://mithi.github.io/deep-blueberry) - A free five-weekend plan to self-learners to learn the basics of deep-learning architectures like CNNs, LSTMs, RNNs, VAEs, GANs, DQN, A3C and more (2019)
+32. [Spinning Up in Deep Reinforcement Learning](https://spinningup.openai.com/) - A free deep reinforcement learning course by OpenAI (2019)
+33. [Deep Learning Specialization - Coursera](https://www.coursera.org/specializations/deep-learning) - Breaking into AI with the best course from Andrew NG.
+35. [Deep Learning - UC Berkeley | STAT-157](https://www.youtube.com/playlist?list=PLZSO_6-bSqHQHBCoGaObUljoXAyyqhpFW) by Alex Smola and Mu Li (2019)
+36. [Machine Learning for Mere Mortals video course](https://www.manning.com/livevideo/machine-learning-for-mere-mortals) by Nick Chase
+37. [Machine Learning Crash Course with TensorFlow APIs](https://developers.google.com/machine-learning/crash-course/) -Google AI
+38. [Deep Learning from the Foundations](https://course.fast.ai/part2) Jeremy Howard - Fast.ai
+39. [Deep Reinforcement Learning (nanodegree) - Udacity](https://www.udacity.com/course/deep-reinforcement-learning-nanodegree--nd893) a 3-6 month Udacity nanodegree, spanning multiple courses (2018)
+40. [Grokking Deep Learning in Motion](https://www.manning.com/livevideo/grokking-deep-learning-in-motion) by Beau Carnes (2018)
+41. [Face Detection with Computer Vision and Deep Learning](https://www.udemy.com/share/1000gAA0QdcV9aQng=/) by Hakan Cebeci
+42. [Deep Learning Online Course list at Classpert](https://classpert.com/deep-learning) List of Deep Learning online courses (some are free) from Classpert Online Course Search
+43. [AWS Machine Learning](https://aws.training/machinelearning) Machine Learning and Deep Learning Courses from Amazon's Machine Learning university
+44. [Intro to Deep Learning with PyTorch](https://www.udacity.com/course/deep-learning-pytorch--ud188) - A great introductory course on Deep Learning by Udacity and Facebook AI
+45. [Deep Learning by Kaggle](https://www.kaggle.com/learn/deep-learning) - Kaggle's  free course on Deep Learning
+46. [Yann LeCun’s Deep Learning Course at CDS](https://cds.nyu.edu/deep-learning/) - DS-GA 1008 · SPRING 2021 
+47. [Neural Networks and Deep Learning](https://webcms3.cse.unsw.edu.au/COMP9444/19T3/) - COMP9444 19T3
+48. [Deep Learning A.I.Shelf](http://aishelf.org/category/ia/deep-learning/)
 
 ### Videos and Lectures
 
@@ -199,6 +201,7 @@
 50. [ViT: An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale](https://arxiv.org/pdf/2010.11929.pdf)
 51. [Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift](http://proceedings.mlr.press/v37/ioffe15.pdf)
 52. [DeepFaceDrawing: Deep Generation of Face Images from Sketches](http://geometrylearning.com/paper/DeepFaceDrawing.pdf?fbclid=IwAR0colWFHPGBCB1APZq9JVsWeWtmeZd9oCTNQvR52T5PRUJP_dLOwB8pt0I)
+53. [The Symbol Grounding Problem](https://arxiv.org/html/cs/9906002)
 
 ### Tutorials
 
@@ -318,33 +321,33 @@
 72. [ Quoc V. Le ](http://ai.stanford.edu/~quocle/)
 73. [ Reinhold Scherer ](http://bci.tugraz.at/scherer/)
 74. [ Richard Socher ](http://www.socher.org/)
-75. [ Rob Fergus ](http://cs.nyu.edu/~fergus/pmwiki/pmwiki.php)
-76. [ Robert Coop ](http://mil.engr.utk.edu/nmil/member/19.html)
-77. [ Robert Gens ](http://homes.cs.washington.edu/~rcg/)
-78. [ Roger Grosse ](http://people.csail.mit.edu/rgrosse/)
-79. [ Ronan Collobert ](http://ronan.collobert.com/)
-80. [ Ruslan Salakhutdinov ](http://www.utstat.toronto.edu/~rsalakhu/)
-81. [ Sebastian Gerwinn ](http://www.kyb.tuebingen.mpg.de/nc/employee/details/sgerwinn.html)
-82. [ Stéphane Mallat ](http://www.cmap.polytechnique.fr/~mallat/)
-83. [ Sven Behnke ](http://www.ais.uni-bonn.de/behnke/)
-84. [ Tapani Raiko ](http://users.ics.aalto.fi/praiko/)
-85. [ Tara Sainath ](https://sites.google.com/site/tsainath/)
-86. [ Tijmen Tieleman ](http://www.cs.toronto.edu/~tijmen/)
-87. [ Tom Karnowski ](http://mil.engr.utk.edu/nmil/member/36.html)
-88. [ Tomáš Mikolov ](https://research.facebook.com/tomas-mikolov)
-89. [ Ueli Meier ](http://www.idsia.ch/~meier/)
-90. [ Vincent Vanhoucke ](http://vincent.vanhoucke.com)
-91. [ Volodymyr Mnih ](http://www.cs.toronto.edu/~vmnih/)
-92. [ Yann LeCun ](http://yann.lecun.com/)
-93. [ Yichuan Tang ](http://www.cs.toronto.edu/~tang/)
-94. [ Yoshua Bengio ](http://www.iro.umontreal.ca/~bengioy/yoshua_en/index.html)
-95. [ Yotaro Kubo ](http://yota.ro/)
-96. [ Youzhi (Will) Zou ](http://ai.stanford.edu/~wzou)
-97. [ Fei-Fei Li ](http://vision.stanford.edu/feifeili)
-98. [ Ian Goodfellow ](https://research.google.com/pubs/105214.html)
-99. [ Robert Laganière ](http://www.site.uottawa.ca/~laganier/)
-100. [Merve Ayyüce Kızrak](http://www.ayyucekizrak.com/)
-
+75. [ Richard S. Sutton ](http://www.incompleteideas.net/) 
+76. [ Rob Fergus ](http://cs.nyu.edu/~fergus/pmwiki/pmwiki.php)
+77. [ Robert Coop ](http://mil.engr.utk.edu/nmil/member/19.html)
+78. [ Robert Gens ](http://homes.cs.washington.edu/~rcg/)
+79. [ Roger Grosse ](http://people.csail.mit.edu/rgrosse/)
+80. [ Ronan Collobert ](http://ronan.collobert.com/)
+81. [ Ruslan Salakhutdinov ](http://www.utstat.toronto.edu/~rsalakhu/)
+82. [ Sebastian Gerwinn ](http://www.kyb.tuebingen.mpg.de/nc/employee/details/sgerwinn.html)
+83. [ Stéphane Mallat ](http://www.cmap.polytechnique.fr/~mallat/)
+84. [ Sven Behnke ](http://www.ais.uni-bonn.de/behnke/)
+85. [ Tapani Raiko ](http://users.ics.aalto.fi/praiko/)
+86. [ Tara Sainath ](https://sites.google.com/site/tsainath/)
+87. [ Tijmen Tieleman ](http://www.cs.toronto.edu/~tijmen/)
+88. [ Tom Karnowski ](http://mil.engr.utk.edu/nmil/member/36.html)
+89. [ Tomáš Mikolov ](https://research.facebook.com/tomas-mikolov)
+90. [ Ueli Meier ](http://www.idsia.ch/~meier/)
+91. [ Vincent Vanhoucke ](http://vincent.vanhoucke.com)
+92. [ Volodymyr Mnih ](http://www.cs.toronto.edu/~vmnih/)
+93. [ Yann LeCun ](http://yann.lecun.com/)
+94. [ Yichuan Tang ](http://www.cs.toronto.edu/~tang/)
+95. [ Yoshua Bengio ](http://www.iro.umontreal.ca/~bengioy/yoshua_en/index.html)
+96. [ Yotaro Kubo ](http://yota.ro/)
+97. [ Youzhi (Will) Zou ](http://ai.stanford.edu/~wzou)
+98. [ Fei-Fei Li ](http://vision.stanford.edu/feifeili)
+99. [ Ian Goodfellow ](https://research.google.com/pubs/105214.html)
+100. [ Robert Laganière ](http://www.site.uottawa.ca/~laganier/)
+101. [Merve Ayyüce Kızrak](http://www.ayyucekizrak.com/)
 
 ### Websites
 
@@ -520,6 +523,7 @@
 148. [SberQuAD](https://github.com/annnyway/QA-for-Russian) - Sberbank released ~90,000 Russian QA pairs
 149. [ArtEmis](http://artemisdataset.org/) - Contains 450K affective annotations of emotional responses and linguistic explanations for 80,000 artworks of WikiArt.
 
+
 ### Conferences
 
 1. [CVPR - IEEE Conference on Computer Vision and Pattern Recognition](http://cvpr2018.thecvf.com)
@@ -608,7 +612,8 @@
 68.  [haystack: an open-source neural search framework](https://haystack.deepset.ai/docs/intromd)
 69.  [Maze](https://github.com/enlite-ai/maze) - Application-oriented deep reinforcement learning framework addressing real-world decision problems.
 70.  [InsNet - A neural network library for building instance-dependent NLP models with padding-free dynamic batching](https://github.com/chncwang/InsNet)
-
+71. [ConvKit](https://convokit.cornell.edu/) - Contains tools to extract conversational features and analyze social phenomena (using scikit-learn) and conversational datasets
+72. [Hugging Face Transformers](https://github.com/huggingface/transformers)
 ### Tools
 
 1.  [Nebullvm](https://github.com/nebuly-ai/nebullvm) - Easy-to-use library to boost deep learning inference leveraging multiple deep learning compilers.
